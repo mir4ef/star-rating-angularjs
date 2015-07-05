@@ -5,3 +5,5 @@ This basic component offers star rating for reviews. It displays the reviews and
 The max rating depends on the `scoringsystem` defined in the source file(`data.json`), thus you can have less or more than 5 star ratings. The star fill color can be set in the CSS.
 
 Due to its simplicity, all the JS/AngularJS code is combined into one file. However, it is recommended to break it into separate files!
+
+![Screenshot](public_html/images/screenshot01.jpg?raw=true "Screenshot")
